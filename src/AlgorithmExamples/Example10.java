@@ -1,4 +1,5 @@
 package AlgorithmExamples;
+
 /*N sayda elementli massiv verirem ve bunlari cap edirem. Amma ki massive verdiyim deyerlerin elementlerini her setirde
  * 3 dene olmaq serti ile cap edirem.*/
 public class Example10 {

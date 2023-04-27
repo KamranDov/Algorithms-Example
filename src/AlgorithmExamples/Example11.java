@@ -1,4 +1,5 @@
 package AlgorithmExamples;
+
 /*String tipinde deyerler teyin edirik ve baxiriq ki bu deyerlerin icinde eger saitler varsa o saitler sil sonra yeniden
  * String tipindeki deyerleri cap et.*/
 public class Example11 {
