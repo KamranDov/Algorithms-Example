@@ -1,0 +1,5 @@
+
+	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(õ¯¤8°ş“¶õ1J$cc961a92-3439-4b2a-a452-26c79bc1c4b5
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(èÆÅäùÿÿÿÿ8²„¶õ1J$e89c9833-03e7-4f44-b981-881bd0054f59
+”
+java:S2095"LUse try-with-resources or close this "BufferedWriter" in a "finally" clause.(ğ¢Å–şÿÿÿÿ8À„¶õ1J$d4facead-6fa0-44ab-b1ef-f1a3d24e58b0
