@@ -1,5 +1,11 @@
 
-i	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(è»¢Í8±„Ÿ¶õ1
-š	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(èÆÅäùÿÿÿÿJ$4cc053c7-b5f8-44ae-a5a5-0f809f20288e
-_
-java:S2094"BRemove this empty class, write its code or make it an "interface".(è»¢Í8³„Ÿ¶õ1
+i	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(è»¢Í8éÃ§¶õ1
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(èÆÅäùÿÿÿÿ8ëÃ§¶õ1
+i
+java:S3008"LRename this field "B" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(­ˆ¢›8òÃ§¶õ1
+i
+java:S3008"LRename this field "H" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(­ˆ¢›8óÃ§¶õ1
+<
+java:S1659"Declare "H" on a separate line.(­ˆ¢›8õÃ§¶õ1
+G	java:S106"+Replace this use of System.out by a logger.(öÝÂ’8€Ä§¶õ1
+L	java:S106"+Replace this use of System.out by a logger.(Å÷Ø”úÿÿÿÿ8‚Ä§¶õ1
