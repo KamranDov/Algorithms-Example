@@ -14,6 +14,12 @@ public class AVeryBigSum {
 //        ar.forEach(param-> sum.addAndGet(param));
 
         return sum.get();
+
+//        long sum = 0;
+//        for (Long values : ar){
+//            sum = sum + values;
+//        }
+//        return sum;
     }
 
     public static void main(String[] args) {
